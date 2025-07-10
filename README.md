@@ -1,4 +1,4 @@
-# Hello world, I'm Marcus! 👋
+# Nice to meet you 👋
 
 ## About Me
 - 🎓 B.Sc in CS @ Virginia Tech
@@ -22,16 +22,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🎯 Projects
-
-### 🎬 YouTube Companion
-Chrome extension enhancing YouTube with real-time AI insights
-- **Tech:** JavaScript, HTML, CSS, Node.js, Express, OpenAI API
-- **Deployment:** Heroku backend with seamless API integration
-- **UX:** Integrated chat interface for AI-powered video analysis
-
-### 🔍 ETD Search Platform
-Scaled academic search from 200K to 500K documents with AI-powered semantic search
-- **Tech:** React, Flask, Elasticsearch, Docker, Kubernetes
-- **Impact:** Reduced processing time from 45+ hours to 2 hours
-- **Features:** Keyword + AI semantic search, figure/table search capabilities
+## 🌱 Interests
+- SaaS, startups, business
+- Full-stack web development
